@@ -5,6 +5,7 @@
   "dependencies": {
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
+    "gulp": "^3.9.1",
     "react": "^0.14.0",
     "react-redux": "^4.4.1",
     "redux": "^3.3.1"
